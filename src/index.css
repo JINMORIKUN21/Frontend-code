@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: url("../public/farming-bg.png") no-repeat center center fixed;
+  background-size: cover;
+  color: white;
+}
+
